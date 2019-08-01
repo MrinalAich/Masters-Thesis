@@ -1,0 +1,7 @@
+tests/switch/tester.py:    def del_flows(self, cookie=0):
+app/simple_switch_lacp.py:    def del_flow(self, datapath, dst):
+app/m:simple_switch_lacp.py:    def del_flow(self, datapath, dst):
+app/m:simple_switch_lacp_13.py:    def del_flow(self, datapath, match):
+app/simple_switch_lacp_13.py:    def del_flow(self, datapath, match):
+services/protocols/bgp/api/rtconf.py:def del_flowspec(flowspec_family, rules):
+services/protocols/bgp/api/prefix.py:def del_flowspec_local(flowspec_family, route_dist, rules):
